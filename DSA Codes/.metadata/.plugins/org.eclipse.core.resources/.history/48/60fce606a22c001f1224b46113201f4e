@@ -1,0 +1,9 @@
+package com.products.singlelinkedlist;
+
+public class Main {
+	LinkedList plist=new LinkedList();
+	
+	plist.
+	
+	
+}

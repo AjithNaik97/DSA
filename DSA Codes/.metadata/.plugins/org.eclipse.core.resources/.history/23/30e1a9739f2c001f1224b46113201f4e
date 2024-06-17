@@ -1,0 +1,6 @@
+package com.products.singlelinkedlist;
+
+public class Node {
+	private Product data;
+	
+}

@@ -1,0 +1,13 @@
+package com.products.singlelinkedlist;
+
+public class LinkedList {
+	private Node head;
+
+	public LinkedList() {
+		super();
+		this.head = null;
+	}
+	
+	
+
+}

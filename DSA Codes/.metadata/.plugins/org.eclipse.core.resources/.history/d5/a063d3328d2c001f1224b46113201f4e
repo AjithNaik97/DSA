@@ -1,0 +1,22 @@
+package com.singlelinkedlist;
+
+public class LinkedList {
+	private Node head;
+
+	public Node getHead() {
+		return head;
+	}
+
+	public LinkedList() {
+		head = null;
+	}
+	
+	public boolean insert(int data) {
+		
+		Node newNode=new Node(data);
+		if(newNode==null) {
+			return false;
+		}
+	}
+
+}

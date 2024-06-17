@@ -1,0 +1,14 @@
+package com.singlelinkedlist.ass;
+
+public class LinkedList {
+	private Node head;
+	
+	public LinkedList() {
+		head=null;
+	}
+	
+	public boolean insert(int data) {
+		Node newNode=new Node(data);
+	}
+	
+}

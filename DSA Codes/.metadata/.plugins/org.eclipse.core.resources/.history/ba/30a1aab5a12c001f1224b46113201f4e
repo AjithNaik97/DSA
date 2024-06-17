@@ -1,0 +1,7 @@
+package com.products.singlelinkedlist;
+
+public class Main {
+	LinkedList<Node> plist =new LinkedList<Node>();
+	
+	
+}

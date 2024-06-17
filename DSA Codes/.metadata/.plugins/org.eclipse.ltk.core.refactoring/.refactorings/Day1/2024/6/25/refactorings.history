@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.singlelinkedlist.ass&apos; to &apos;Day1-Assignment/src&apos;&#x0D;&#x0A;- Original project: &apos;Day1&apos;&#x0D;&#x0A;- Destination element: &apos;Day1-Assignment/src&apos;&#x0D;&#x0A;- Original element: &apos;Day1/src/com.singlelinkedlist.ass&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=Day1-Assignment/src" element1="/src&lt;com.singlelinkedlist.ass" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1718619967315" version="1.0"/>
+</session>

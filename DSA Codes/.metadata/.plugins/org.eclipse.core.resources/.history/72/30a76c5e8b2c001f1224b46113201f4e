@@ -1,0 +1,15 @@
+package com.singlelinkedlist;
+
+public class LinkedList {
+	private Node head;
+
+	public Node getHead() {
+		return head;
+	}
+	
+	public LinkedList()
+	{
+		head=null;
+	}
+
+}
