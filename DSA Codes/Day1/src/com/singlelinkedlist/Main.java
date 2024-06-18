@@ -16,6 +16,7 @@ public class Main {
         l1.insert(70, 4);
         l1.display();
         l1.insert(80, 8);
+        l1.insert(80, 6);
         l1.display();
         boolean isInserted =l1.insert(90, 10);
         System.out.println(isInserted);
@@ -23,6 +24,14 @@ public class Main {
 
         l1.displayReverse();
         l1.displayReverse(l1.getHead());
+        l1.reverse();
+        l1.display();
+        
+        while(l1.deleteByVal(80))
+        	;
+        l1.display();
+        l1.deleteByPostion(3);
+        l1.display();
 	}
 
 }
