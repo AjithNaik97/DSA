@@ -1,4 +1,4 @@
-package com.assignment2;
+package com.assigment2;
 
 public class LinkedList {
 	private Node head;

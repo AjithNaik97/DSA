@@ -7,4 +7,6 @@
     <fullyQualifiedTypeName name="com.singlylinkedlist.circular.CircularLinkedList"/>
     <fullyQualifiedTypeName name="com.assignment2.LinkedList"/>
     <fullyQualifiedTypeName name="com.stack.DoubleStack"/>
+    <fullyQualifiedTypeName name="com.binarysearchtree.BinarySearchTree"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
 </qualifiedTypeNameHistroy>

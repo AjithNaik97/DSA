@@ -1,4 +1,4 @@
-package com.assignment2;
+package com.assignment1;
 
 public class Node {
 	private int data;
