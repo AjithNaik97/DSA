@@ -3,4 +3,8 @@
     <fullyQualifiedTypeName name="com.singlelinkedlist.LinkedList"/>
     <fullyQualifiedTypeName name="com.singlelinkedlist.ass.LinkedList"/>
     <fullyQualifiedTypeName name="com.products.singlelinkedlist.LinkedList"/>
+    <fullyQualifiedTypeName name="com.doublylinkedlist.DoublyLinkedList"/>
+    <fullyQualifiedTypeName name="com.singlylinkedlist.circular.CircularLinkedList"/>
+    <fullyQualifiedTypeName name="com.assignment2.LinkedList"/>
+    <fullyQualifiedTypeName name="com.stack.DoubleStack"/>
 </qualifiedTypeNameHistroy>

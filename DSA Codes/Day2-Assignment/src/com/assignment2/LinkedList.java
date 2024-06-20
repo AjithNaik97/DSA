@@ -39,4 +39,24 @@ public class LinkedList {
 		}
 		System.out.println();
 	}
+	
+	public void merge(LinkedList l2) {
+		if(head==null) {
+			head=l2.head;
+			return;
+		}
+		Node temp1=head;
+		Node trace=head;
+		Node temp2=l2.head;
+		
+		while(l2.head.getNext()!=null) {
+			l2.head=l2.head.getNext();
+			trace=trace.getNext();
+			temp1.setNext(temp2);
+			temp2.setNext(trace);
+			temp1=temp1.getNext().getNext();
+			temp2=l2.head;
+		}
+		trace.setNext(l2.head);
+	}
 }
