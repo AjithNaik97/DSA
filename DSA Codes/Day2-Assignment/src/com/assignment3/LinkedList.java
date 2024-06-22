@@ -1,4 +1,4 @@
-package com.assigment2;
+package com.assignment3;
 
 public class LinkedList {
 	private Node head;
@@ -40,26 +40,5 @@ public class LinkedList {
 		System.out.println();
 	}
 
-	public void middleEle() {
-		if (head == null) {
-			System.out.println("Stack is empty!");
-			return;
-		}
-
-		Node temp = head;
-		Node mid = head;
-		int count = 1;
-		while (temp.getNext() != null) {
-			temp = temp.getNext();
-			count++;
-			if (count % 2 != 0) {
-				mid = mid.getNext();
-			}
-		}
-		if (count % 2 == 0) {
-			System.out.println(mid.getData() + " " + mid.getNext().getData());
-		} else {
-			System.out.println(mid.getData());
-		}
-	}
+	
 }
