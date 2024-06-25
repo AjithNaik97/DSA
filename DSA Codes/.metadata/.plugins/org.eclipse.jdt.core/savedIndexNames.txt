@@ -8,3 +8,10 @@ INDEX VERSION 1.131+E:\Ajith_Gaurav\DSA\DSA Codes\.metadata\.plugins\org.eclipse
 3119222176.index
 3546872906.index
 3380705583.index
+<<<<<<< HEAD
+=======
+1351100565.index
+663689219.index
+1865797976.index
+2565356412.index
+>>>>>>> e29521ace561adef9b272f770388b3319efc6b47
