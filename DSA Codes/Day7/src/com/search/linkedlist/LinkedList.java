@@ -32,5 +32,9 @@ public class LinkedList {
 		System.out.println();
 	}
 	
+	public boolean binarySearch(int data) {
+		
+	}
+	
 	
 }
